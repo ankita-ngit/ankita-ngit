@@ -1,6 +1,6 @@
-# Hi there 👋, I'm [Ankita]
+# Hi there 👋, I'm Ankita
 
-I'm a passionate Full Stack Developer from [Nepal] who loves building web apps and learning new technologies. 
+I'm a passionate Full Stack Developer from Nepal who loves building web apps and learning new technologies. 
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS, Next.js, HTML, CSS, JavaScript
